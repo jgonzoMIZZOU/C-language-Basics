@@ -1,0 +1,5 @@
+/Users/jeremygonzalez/Desktop/FOLDERS/SCHOOL/CMP_SC 4330/C_sharp_Language_Basics/C_sharp_Language_Basics/bin/Debug/C_sharp_Language_Basics.exe
+/Users/jeremygonzalez/Desktop/FOLDERS/SCHOOL/CMP_SC 4330/C_sharp_Language_Basics/C_sharp_Language_Basics/bin/Debug/C_sharp_Language_Basics.pdb
+/Users/jeremygonzalez/Desktop/FOLDERS/SCHOOL/CMP_SC 4330/C_sharp_Language_Basics/C_sharp_Language_Basics/obj/x86/Debug/C_sharp_Language_Basics.csproj.CoreCompileInputs.cache
+/Users/jeremygonzalez/Desktop/FOLDERS/SCHOOL/CMP_SC 4330/C_sharp_Language_Basics/C_sharp_Language_Basics/obj/x86/Debug/C_sharp_Language_Basics.exe
+/Users/jeremygonzalez/Desktop/FOLDERS/SCHOOL/CMP_SC 4330/C_sharp_Language_Basics/C_sharp_Language_Basics/obj/x86/Debug/C_sharp_Language_Basics.pdb
